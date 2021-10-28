@@ -5,4 +5,5 @@ data/samsung_HAR/
 .idea/
 .DS_Store
 venv/
+Pipfile.lock
 
