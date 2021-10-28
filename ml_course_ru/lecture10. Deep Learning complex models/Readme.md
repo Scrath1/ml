@@ -1,1 +1,0 @@
-A lot of nice examples: https://github.com/fchollet/deep-learning-with-python-notebooks
