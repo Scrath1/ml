@@ -9,6 +9,8 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+openpyxl = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
