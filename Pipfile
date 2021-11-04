@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 openpyxl = "*"
 scikit-learn = "*"
+torch = "*"
 
 [dev-packages]
 
