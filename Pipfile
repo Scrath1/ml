@@ -12,6 +12,7 @@ seaborn = "*"
 openpyxl = "*"
 scikit-learn = "*"
 torch = "*"
+scipy = "*"
 
 [dev-packages]
 
