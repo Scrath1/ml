@@ -13,6 +13,7 @@ openpyxl = "*"
 scikit-learn = "*"
 torch = "*"
 scipy = "*"
+tqdm = "*"
 
 [dev-packages]
 
