@@ -15,6 +15,7 @@ torch = "*"
 scipy = "*"
 tqdm = "*"
 torchsummary = "*"
+ray = "*"
 
 [dev-packages]
 
