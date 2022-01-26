@@ -25,4 +25,6 @@ Assignment score depends on the number of completed assignments:
 * Assignment score 2: 1, 2, 4, 5.2, 6
 * Assignment score 1: 1, 2, 4, 5.2, 6, 7.1
 
+Assignment 3 can be used as a replacement for 6 or 7.1
+
 Final score = mean(Assignment score, Final testing score).
